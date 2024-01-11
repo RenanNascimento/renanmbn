@@ -19,10 +19,7 @@ theme:
         name: Switch to dark mode
       primary: teal
       accent: purple 
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+    - scheme: slate  
       primary: teal
       accent: lime
 
