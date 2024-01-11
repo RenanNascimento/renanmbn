@@ -1,5 +1,6 @@
 ---
 date: 2021-08-01
+slug: projeto-end-to-end-hands-on-ml
 categories:
   - review
 ---

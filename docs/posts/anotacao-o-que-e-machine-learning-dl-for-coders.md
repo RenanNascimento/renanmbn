@@ -1,5 +1,6 @@
 ---
 date: 2021-08-16
+slug: anotacao-o-que-e-machine-learning
 categories:
   - notes
 ---
@@ -30,6 +31,6 @@ os pesos são ajustados de forma
 a maximizar a performance para obter resultados satisfatórios.
 A figura abaixo ilustra esse processo.
 
-<p align="center"><img src="https://i.imgur.com/SIYACiU.png" /></p>
+![Diagrama de machine learning](https://i.imgur.com/SIYACiU.png)
 
 Mais detalhes podem ser encontrados no [livro](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) e [videoaula](https://www.youtube.com/watch?v=_QUEXsHfsA0) criados pelos autores.
