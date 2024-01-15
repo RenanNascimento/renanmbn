@@ -16,6 +16,6 @@ The blog was redesigned, some new ideas are in draft and as you may have noticed
 
 That’s all for today. And for now, I’ll just leave you with the old blog post home page as a nostalgic piece. 
 
-![Old blog front page](https://imgur.com/l6E3n9r)
+![Old blog front page](https://i.imgur.com/l6E3n9r.png)
 
 Goggle up, ML is about to happen; I’ll see you in the next post 😉
