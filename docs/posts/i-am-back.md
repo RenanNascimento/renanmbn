@@ -1,7 +1,7 @@
 ---
 date: 2023-01-14
 categories:
-  - ltuae
+  - now
 ---
 
 And finally, I AM BACK 🎉🥳!!
