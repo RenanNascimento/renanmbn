@@ -10,5 +10,5 @@
     }
 </style>
 
-# My MLE personal blog
+# My personal MLE blog
 
