@@ -1,10 +1,11 @@
 ---
 date: 2024-07-20
+slug: parlez-vous-francais
 categories:
   - now
 ---
 
-Parlez-vous Français?
+# Parlez-vous Français?
 
 <!-- more -->
 
