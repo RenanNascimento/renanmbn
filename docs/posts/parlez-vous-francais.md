@@ -7,9 +7,10 @@ categories:
 
 # Parlez-vous Français?
 
+I'll admit it. It's been a long time since I wrote anything here in this blog.
+
 <!-- more -->
 
-I'll admit it. It's been a long time since I wrote anything here in this blog.
 There were some drafts here and there, but no contents came to light. Now I'm back
 with a new initiative and news ideias. I now, I now, you've seen this film
 before. But, at least, I'm trying my best, because a lot of ups and downs happened in my
